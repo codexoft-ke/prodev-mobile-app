@@ -2,9 +2,9 @@ import { View, Text } from "react-native";
 
 const Profile = () => {
   return (
-    <View>
-      <Text>Profile Screen</Text>
-    </View>
+      <View>
+        <Text>Profile Screen</Text>
+      </View>
   )
 }
 
